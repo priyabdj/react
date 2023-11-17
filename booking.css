@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.abc{
+    height: 720px;
+    width: 664px;
+    /* border: 2px solid black; */
+    background-image: url(/air.cms);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+.red{
+    height: 156px;
+    width: 557px;
+    /* border: 2px solid black; */
+    position: relative;
+    top: 12px;
+}
+#tem{height: 91px;
+    width: 92px;
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    background-image: url(/travel.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pqr{
+    font-size: 30px;
+    color: red;
+    position: absolute;
+    top: -6px;
+    right: 60px;
+    letter-spacing: 2px;
+}
+#rsm{
+    font-size: 16px;
+    color:green;
+    position: absolute;
+    top: 30px;
+    right: 75px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ .wky{
+    /* font-size: 16px;   */
+    position: absolute;
+    top: 49px;
+    right: 75px;
+}
+#ram{
+    font-size: 19px;
+    font-weight: bold;
+    position: absolute;
+    top: 142px;
+    left: 420px;
+}
+#can{
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    top: 164px;
+    left: 420px; 
+}
+.qsa{
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    top: 204px;
+    left: 421px; 
+}
+.dms{ height: 347px;
+    width: 557px;
+    /* border: 2px solid black; */
+    position: absolute;
+    top: 245px;
+}
+.form{font-weight: bold;
+font-size: 20px;
+/* padding-right: 200px;} */}
+
+.form input{height: 20px;
+width: 180px;}
